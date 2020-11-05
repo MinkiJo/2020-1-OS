@@ -54,7 +54,7 @@ OS03 에서 발생한 동기화를 mutex 및 semaphore를 이용해 해결한다
 
 결국 메모리에서 stack 영역과 heap 영역이 충돌하는 지점이 생긴다
 
-### [OS05](https://github.com/MinkiJo/2020_1_OS/tree/main/OS05) 
+### [OS05](https://github.com/MinkiJo/2020_1_OS/tree/main/OS05) Linux Device Driver
 
 라즈베리파이 보드와 led, switch 를 사용해 led를 제어하는 디바이스 드라이버 프로그램 짜기
 
